@@ -1,4 +1,3 @@
-package interview;
 
 public class StringPermutations {
 
