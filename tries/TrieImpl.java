@@ -1,4 +1,4 @@
-//Trie Node (Prefix tree implementation)
+//Trie  (Prefix tree implementation)
 class TrieNode{
 	char val;
     HashMap<Character,TrieNode> child;
