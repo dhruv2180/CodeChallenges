@@ -1,3 +1,4 @@
+//Performing inorder traversal and validating if the list is sorted such that dfs[i]<dfs[i+1]
 public class ValidateBst {
     public boolean isValidBST(TreeNode root) {
         ArrayList<Integer> dfs=new ArrayList<Integer>();
